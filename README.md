@@ -7,3 +7,6 @@ Getting Horse Collar as soon as you click up to Castle Age (17:00 minute in game
 
 ### Case 3 Farming Heavy Plow Castle.py
 Getting Horse Collar as soon as you hit Feudal Age Vs no Horse collar. Making 16 farms in feudal and once in Castle Age (19:40) adding Heavy Plow and 1 farm each 25 seconds
+
+### Case 4 Sicilian Farming Bonus Simulation.py
+Getting Horse Collar as Sicilians as soon as you hit Feudal vs no Horse collar vs Generic Civ with Horse collar, making 16 farms in feudal and once in Castle Age (19:40) adding one farm each 25 seconds.
